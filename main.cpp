@@ -26,6 +26,32 @@ void shfaqMenu() {
     cout << "Zgjedhja: ";
 }
 
+// Funksioni për të fshirë një student nga emri
+void fshiStudent() {
+    string emri;
+    cout << "Shkruani emrin e studentit që dëshironi të fshini: ";
+    cin >> emri;
+
+    bool gjetur = false;
+
+    for (int i = 0; i < numriStudentëve; i++) {
+        if (studentet[i].emri == emri) {
+            // Zhvendosim të gjithë studentët pas këtij studenti një pozita mbrapa
+            for (int j = i; j < numriStudentëve - 1; j++) {
+                studentet[j] = studentet[j + 1];
+            }
+            numriStudentëve--; // Ulet numri i studentëve
+            cout << "Studenti " << emri << " u fshi me sukses." << endl;
+            gjetur = true;
+            break;
+        }
+    }
+
+    if (!gjetur) {
+        cout << "Studenti me emrin " << emri << " nuk u gjet." << endl;
+    }
+}
+
 int main() {
     int zgjedhja;
 
