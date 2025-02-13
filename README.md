@@ -41,7 +41,8 @@ Ky projekt është licencuar nën MIT License - shihni LICENSE për më shumë d
 
 Kontakt
 
-Ky projekt është krijuar nga Leona Dervishaj, Elisa Hadergjonaj, Doresa Tolaj dhe Yllka Lokaj,dhe mund të kontaktoni për çdo pyetje nëpërmjet email-it: 
+Ky projekt është krijuar nga Leona Dervishaj, Elisa Hadergjonaj, Doresa Tolaj dhe Yllka Lokaj,dhe mund të kontaktoni për çdo pyetje nëpërmjet email-it:
+
 leona.dervishaj@student.uni-pr.edu
 elisa.hadergjonaj@student.uni-pr.edu
 doresa.tolaj@student.uni-pr.edu
