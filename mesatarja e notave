@@ -1,0 +1,17 @@
+// Funksioni per llogaritjen e mesatareve te notave
+float llogaritMesataren (stuct Student* student) {
+    float shuma = 0;
+    for (int i=0 ; i < student-> numriNotave; i++) {
+        shuma += student -> notat [i];
+    }
+    return shuma / student -> numriNotave;
+}
+int main() {
+    //Krijimi nje studenti 
+    struct Student studenti = {1 . "Liridon" , {8.5, 9.0 ,7.5 }, 3} ;
+     
+    // Llogaritja e mesatares
+    float mesatarja = llogaritMesataren(&studenti);
+    printf("Mesatarja e notave te %s: %.2f/n", studenti.emri ,mesatarja) ;
+    return 0;
+}
