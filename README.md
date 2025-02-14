@@ -10,7 +10,6 @@ Student Management System është një aplikacion për menaxhimin e të dhënave
 - **Raportimi dhe Statistikate**: Gjenerimi i raporteve për performancën akademike të studentëve.
 
 ## Të Kërkuarat
-
 - Kompjuteri duhet të ketë C++ kompajler si GCC ose Clang.
 - Editor teksti si Visual Studio Code ose Sublime Text.
 
