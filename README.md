@@ -3,7 +3,6 @@
 Student Management System është një aplikacion për menaxhimin e të dhënave të studentëve, që ofron mundësi për regjistrimin, ruajtjen, dhe përditësimin e informacionit për studentët. Ky sistem gjithashtu mundëson llogaritjen e mesatares së notave, ruajtjen e lëndëve, dhe menaxhimin e përdoruesve të ndryshëm (admin, profesor, student).
 
 ## Karakteristikat Kryesore
-
 - **Sistemi i Shtimit të Studentëve**: Përdoruesit mund të shtojnë të dhëna për studentë të rinj.
 - **Menaxhimi i Lëndëve**: Lidhja e studentëve me lëndët dhe ruajtja e rezultateve të tyre.
 - **Përllogaritja e Mesatares**: Llogaritja e mesatares së notave për studentët.
