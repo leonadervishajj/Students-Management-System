@@ -36,7 +36,6 @@ Krijoni një fork të këtij repository.
 Bëni ndryshimet dhe krijoni një pull request.
 
 Licenca
-
 Ky projekt është licencuar nën MIT License - shihni LICENSE për më shumë detaje.
 
 Ky projekt është krijuar nga Leona Dervishaj, Elisa Hadergjonaj, Doresa Tolaj dhe Yllka Lokaj,dhe mund të kontaktoni për çdo pyetje nëpërmjet email-it:
